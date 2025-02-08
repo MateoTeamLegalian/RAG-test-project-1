@@ -1,0 +1,19 @@
+{
+  "name": "ragproject",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.13.1"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.29",
+    "@langchain/core": "^0.3.39",
+    "@langchain/google-vertexai": "^0.1.8",
+    "@langchain/langgraph": "^0.2.45",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.15",
+    "typescript": "^5.7.3",
+    "zod": "^3.24.1"
+  }
+}
